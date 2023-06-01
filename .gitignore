@@ -1,0 +1,8 @@
+# NetroCDN
+
+# 1. Ignore personal things
+.env
+
+# 1. Ignore logs
+logs/
+errors/

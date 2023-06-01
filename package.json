@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-rate-limit": "^6.7.0",
+    "express-useragent": "^1.0.15",
+    "sharp": "^0.32.0"
+  },
+  "name": "netrocdn",
+  "version": "1.0.0",
+  "description": "Netro Corporation's CDN",
+  "main": "src/index.js",
+  "scripts": {
+    "prod": "node .",
+    "dev": "nodemon .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aisuruneko/NetroCorp-CDN.git"
+  },
+  "author": "Netro Corporation",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aisuruneko/NetroCorp-CDN/issues"
+  },
+  "homepage": "https://github.com/Aisuruneko/NetroCorp-CDN#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}

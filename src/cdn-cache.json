@@ -1,0 +1,13 @@
+{
+	"cache": [
+		{
+			"path": "(.*).(jpg|png|gif|mp4|svg)$",
+			"ttl": 3600
+		},
+		{
+			"path": "(.*).(css|js)$",
+			"ttl": 300
+		}
+
+	]
+}
