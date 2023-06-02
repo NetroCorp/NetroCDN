@@ -17,14 +17,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Aisuruneko/NetroCorp-CDN.git"
+    "url": "git+https://github.com/NetroCorp/NetroCDN.git"
   },
   "author": "Netro Corporation",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Aisuruneko/NetroCorp-CDN/issues"
+    "url": "https://github.com/NetroCorp/NetroCDN/issues"
   },
-  "homepage": "https://github.com/Aisuruneko/NetroCorp-CDN#readme",
+  "homepage": "https://github.com/NetroCorp/NetroCDN#readme",
   "devDependencies": {
     "nodemon": "^2.0.22"
   }
